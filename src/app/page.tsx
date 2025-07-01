@@ -1,6 +1,7 @@
 // File: secure-vista/src/app/page.tsx
 "use client";
 import React from "react";
+import HeroSection from "@/components/home/HeroSection";
 import ServicesPage from "@/components/landing/ServicesPage";
 import OurApproach from "@/components/landing/OurApproach";
 export default function Home() {
@@ -17,7 +18,7 @@ export default function Home() {
       </section>
  */}
 
-
+    <HeroSection/> 
      <ServicesPage/>
       <OurApproach />
    

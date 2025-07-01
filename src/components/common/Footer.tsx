@@ -18,7 +18,7 @@ const ContactInfo = () => {
   return (
     <div className="relative bg-[#1a73be] p-6 sm:p-10 lg:p-16 w-full max-w-md shadow-lg">
       <Image
-        src="https://storage.googleapis.com/a1aa/image/d3d365f6-323b-4865-9dc3-e36d2d2766ad.jpg"
+        src="https://designsserver.com/projects/g8/security/wp-content/uploads/2024/08/New-Project.png"
         alt="Securevista SIFM company logo with shield and stars in blue and orange"
         className="absolute -top-8 sm:-top-10 left-4 sm:left-6 w-16 sm:w-20 h-16 sm:h-20 object-contain"
         width={80}
