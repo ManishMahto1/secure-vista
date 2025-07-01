@@ -1,7 +1,7 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import SearchBar from '@/components/common/SearchBar';
+
 
 const HeroSection = () => (
   <section className="relative h-[600px] bg-gradient-to-r from-indigo-900 to-violet-800">
@@ -28,7 +28,7 @@ const HeroSection = () => (
           animate={{ opacity: 1 }}
           transition={{ delay: 0.4 }}
         >
-          <SearchBar />
+          
         </motion.div>
       </div>
     </motion.div>
